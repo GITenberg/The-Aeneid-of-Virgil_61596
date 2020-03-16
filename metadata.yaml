@@ -1,0 +1,31 @@
+_repo: The-Aeneid-of-Virgil_61596
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Humphries, Rolfe
+    gutenberg_agent_id: '51509'
+    url: http://www.gutenberg.org/2009/agents/51509
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergil
+    - Vergilius Maro, Publius
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: https://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_issued: '2020-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Aeneid of Virgil
+url: http://www.gutenberg.org/ebooks/61596
